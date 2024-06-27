@@ -8,21 +8,21 @@ Hi, I'm Husna! I am a data analyst.In my free time, I enjoy exploring new data a
 - Excel
 - PowerBi
   
-## Customer Churn Analysis: Predicting Who Might Leave
+## [Customer Churn Analysis: Predicting Who Might Leave](https://github.com/Husna426/Project/blob/main/customer%20churn%20records.ipynb)
 
-We're building a smart system to predict which customers might stop using our service. This lets us proactively reach out and convince them to stay!
+ I built a smart system to predict which customers might stop using our service. This lets us proactively reach out and convince them to stay!
 
 **Uncovering Why They Leave:**
 
-By analyzing data, we'll understand why customers churn (leave). This helps us prevent future churn.
+By analyzing data, I understood why customers churn (leave). This helps us prevent future churn.
 
 **Keeping Customers Happy:**
 
-Knowing why customers leave allows us to create plans to keep them happy. This might involve personalized outreach, fixing problems, or improving our service based on their feedback. The goal is to make them never want to leave!
+Knowing why customers leave allowed me to create plans to keep them happy. This might involve personalized outreach, fixing problems, or improving our service based on their feedback. The goal is to make them never want to leave!
 
 **The Benefits:**
 
-This data-driven approach helps us retain valuable customers, making it a win-win for everyone!
+This data-driven approach helps the company retain valuable customers, making it a win-win for everyone!
 
 **Technologies:**
 
@@ -36,7 +36,7 @@ This data-driven approach helps us retain valuable customers, making it a win-wi
 - Conduct exploratory data analysis
 - Draw conclusions and insights
 
-## HR Analytics Visualization: Making Data Meaningful
+## [HR Analytics Visualization: Making Data Meaningful](https://github.com/Husna426/Project/blame/main/HR%20Analytics.pbix)
 
 The organization strives to improve employee engagement and retention. Tons of data exist, but it can be overwhelming. We need to turn this data into something clear.
 
@@ -47,7 +47,7 @@ The organization strives to improve employee engagement and retention. Tons of d
 - **From Data to Decisions:** Analyze the data stories to see the big picture. What are employee demographic patterns? How's performance connected to turnover? Valuable insights will be revealed.
 - **Clear Communication:** Share insights with HR leadership and stakeholders using Power BI visualizations. Everyone will be on the same page regarding employee engagement and retention.
 
-## Employee Data Analytics: Uncovering Hidden Gems
+## [Employee Data Analytics: Uncovering Hidden Gems](https://github.com/Husna426/Project/blob/main/HR%20data%20query.sql)
 
 We're on a mission to find hidden gems in our employee data! Using a powerful tool called SQL, I'll analyze details like ages, job titles, pay, and performance reviews.
 
@@ -55,7 +55,7 @@ We're on a mission to find hidden gems in our employee data! Using a powerful to
 
 By combining and filtering this information, we can uncover patterns and trends. Imagine seeing how many people of each age work in different departments, or how salaries compare across different roles. This provides a clearer picture of our workforce, helping HR improve processes and keep employees happy.
 
-## ESG Analytics: Unveiling Sustainability Impact
+## [ESG Analytics: Unveiling Sustainability Impact](https://github.com/Husna426/Project/blob/main/ESG%20data%20analytics%20project%20(3).ipynb)
 
 Let's unlock the secrets of a company's environmental, social, and governance (ESG) impact! We'll use Python, a powerful programming language, to analyze ESG data.
 
