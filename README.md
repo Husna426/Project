@@ -38,7 +38,7 @@ This data-driven approach helps the company retain valuable customers, making it
 
 ## [HR Analytics Visualization: Making Data Meaningful](https://github.com/Husna426/Project/blame/main/HR%20Analytics.pbix)
 
-The organization strives to improve employee engagement and retention. Tons of data exist, but it can be overwhelming. We need to turn this data into something clear.
+The organization strives to improve employee engagement and retention. Tons of data exist, but it can be overwhelming. I need to turn this data into something clear.
 
 **Taking Action:**
 
@@ -49,7 +49,7 @@ The organization strives to improve employee engagement and retention. Tons of d
 
 ## [Employee Data Analytics: Uncovering Hidden Gems](https://github.com/Husna426/Project/blob/main/HR%20data%20query.sql)
 
-We're on a mission to find hidden gems in our employee data! Using a powerful tool called SQL, I'll analyze details like ages, job titles, pay, and performance reviews.
+I am on a mission to find hidden gems in our employee data! Using a powerful tool called SQL, I'll analyze details like ages, job titles, pay, and performance reviews.
 
 **Extracting Insights:**
 
