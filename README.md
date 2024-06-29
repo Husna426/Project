@@ -66,7 +66,7 @@ Let's unlock the secrets of a company's environmental, social, and governance (E
 
 **The Process:**
 
-- **Data Gathering:** Collect ESG data from reports, rating agencies, and government databases. Python's cleaning capabilities ensure accuracy and consistency.
-- **Data Analysis:** Use Python to analyze data, identify trends, and uncover patterns. This might involve analyzing carbon footprint reduction, diversity within the workforce, or the effectiveness of governance practices.
-- **Data Visualization:** Compelling visualizations showcase ESG performance in a clear and engaging way.
-- **The Outcome:** Armed with insights, we can develop a data-driven sustainability engagement strategy.
+- **Data Gathering:** I collected ESG data from reports, rating agencies, and government databases. Python's cleaning capabilities ensure accuracy and consistency.
+- **Data Analysis:** I used Python to analyze data, identify trends, and uncover patterns. This might involve analyzing carbon footprint reduction, diversity within the workforce, or the effectiveness of governance practices.
+- **Data Visualization:**  visualizations showcase ESG performance in a clear and engaging way.
+- **The Outcome:** I gathered insights to develop a data-driven sustainability engagement strategy.
