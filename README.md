@@ -57,9 +57,9 @@ By combining and filtering this information, we can uncover patterns and trends.
 
 ## [ESG Analytics: Unveiling Sustainability Impact](https://github.com/Husna426/Project/blob/main/ESG%20data%20analytics%20project%20(3).ipynb)
 
-Let's unlock the secrets of a company's environmental, social, and governance (ESG) impact! We'll use Python, a powerful programming language, to analyze ESG data.
+ I'll use Python, a powerful programming language, to analyze ESG data.
 
-**Our Toolbox:**
+**Toolbox:**
 
 - Python libraries: Pandas, NumPy (Data manipulation & analysis)
 - Matplotlib/Seaborn (Data visualization)
@@ -68,5 +68,5 @@ Let's unlock the secrets of a company's environmental, social, and governance (E
 
 - **Data Gathering:** I collected ESG data from reports, rating agencies, and government databases. Python's cleaning capabilities ensure accuracy and consistency.
 - **Data Analysis:** I used Python to analyze data, identify trends, and uncover patterns. This might involve analyzing carbon footprint reduction, diversity within the workforce, or the effectiveness of governance practices.
-- **Data Visualization:**  visualizations showcase ESG performance in a clear and engaging way.
+- **Data Visualization:** The visualizations showcase ESG performance in a clear and engaging way.
 - **The Outcome:** I gathered insights to develop a data-driven sustainability engagement strategy.
